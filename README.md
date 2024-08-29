@@ -8,7 +8,7 @@ A demonstration for:
 * how to make queries.
 
 $$
-{\Huge \color{red}Tables \space \color{orange}Diagram}
+{\textcolor{red}{\textbf{Bold and Red}} \; \textcolor{blue}{\textbf{Bold and Blue}}
 $$
 
 <p style="text-align: center;">
