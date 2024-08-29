@@ -10,4 +10,7 @@ A demonstration for:
 <div style="text-align: center; color: #F66262;">
   <h3>Tables Diagram</h3>
 </div>
+
+<p align: "center">
 ![tables diagram](moviedata_diagram1.jpg)
+</p>
