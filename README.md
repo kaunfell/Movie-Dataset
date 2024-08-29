@@ -8,7 +8,7 @@ A demonstration for:
 * how to make queries.
 
 $$
-{\textcolor{red}{\textbf{Bold and Red}} \; \textcolor{blue}{\textbf{Bold and Blue}}
+{\textcolor{red}{\textbf{Bold}} \; \textcolor{orange}{\textbf{Bold Text in Orange}}
 $$
 
 <p style="text-align: center;">
