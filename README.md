@@ -1,2 +1,6 @@
 # Movie-Dataset
-Dataset table creation, data inserting and querying demonstration
+
+A demonstration for creating a schema, tables, insert data,
+how to make many-to-many relationship and how to make queries.
+
+![tables diagram](moviedata_diagram.pdf)
