@@ -1,4 +1,4 @@
-# 🍿Movie-Dataset ![Popcorn](https://pixabay.com/get/g1327a057bc52d87a421f5236f838cd1d8bbb983c3a6b2df9d7a93ae7357682855855476dbb406023d24dc8b3c3b04970c8395a97303567762e6c588af57966334f408f14bdd7f61eca2d553d227b05ce_640.png)
+# 🍿Movie-Dataset 
 
 A demonstration for:
 * creating a schema 
@@ -8,7 +8,7 @@ A demonstration for:
 * how to make queries.
 
 $$
-{\Huge \textbf{\color{red}{Tables}} \; \textbf{\color{orange}{Diagram}}
+{\textcolor{red}{\textbf{Bold and Red}} \; \textcolor{blue}{\textbf{Bold and Blue}}
 $$
 
 <p style="text-align: center;">
