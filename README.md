@@ -9,7 +9,7 @@ A demonstration for:
 
 
 $$
-\textcolor{red}{\textbf{Tables}} \; \textcolor{orange}{\textit{Diagram}}
+\textcolor{red}{\textbf{Tables}} \ \textcolor{orange}{\textit{Diagram}}
 $$
 
 
