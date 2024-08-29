@@ -8,7 +8,7 @@ A demonstration for:
 * how to make queries.
 
 $$
-{\Huge \color{red}Tables \space \color{orange}Diagram}
+{ \color{red}Tables \space \color{orange}Diagram}
 $$
 
 <p style="text-align: center;">
