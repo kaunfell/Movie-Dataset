@@ -11,6 +11,7 @@ A demonstration for:
   <h3>Tables Diagram</h3>
 </div>
 
-<p align: "center">
-![tables diagram](moviedata_diagram1.jpg)
+<p style="text-align: center;">
+  <!--![tables diagram](moviedata_diagram1.jpg)-->
+  <img src="moviedata_diagram1.jpg" alt="Tables diagram">
 </p>
