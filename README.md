@@ -8,9 +8,7 @@ A demonstration for:
 * how to make queries.
 
 
-$$
-## \textcolor{red}{\textbf{Tables}} \ \textcolor{orange}{\textit{Diagram}}
-$$
+## $$ \textcolor{red}{\textbf{Tables}} \ \textcolor{orange}{\textit{Diagram}}$$
 
 
 <p style="text-align: center;">
