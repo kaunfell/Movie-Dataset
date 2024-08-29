@@ -1,4 +1,4 @@
-# Movie-Dataset ![Popcorn](https://pixabay.com/vectors/popcorn-food-snack-movie-cinema-7525406/)
+# 🍿Movie-Dataset ![Popcorn]()
 
 A demonstration for:
 * creating a schema 
@@ -9,7 +9,9 @@ A demonstration for:
 
 
 ## $${\color{red}Tables \space \color{orange}Diagram}$$
-
+$$
+\textcolor{red}{\textbf{Tables}} \; \textcolor{orange}{\textit{Diagram}}
+$$
 
 <p style="text-align: center;">
   <!--![tables diagram](moviedata_diagram1.jpg)-->
