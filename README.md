@@ -8,7 +8,7 @@ A demonstration for:
 * how to make queries.
 
 
-## $${\textcolor{red}{\textit{Tables} \space \textcolor{orange}{textit{Diagram}}$$
+## $${\textcolor{red}{\textit{Tables}} \space \textcolor{orange}{textit{Diagram}}$$
 
 <p style="text-align: center;">
   <!--![tables diagram](moviedata_diagram1.jpg)-->
