@@ -7,10 +7,8 @@ A demonstration for:
 * how to make many-to-many relationship
 * how to make queries.
 
-$${\color{red}Red}$$
-<div text-align: "center"; color: "#F66262">
- <h3>Tables Diagram</h3>
-</div>
+## $${\color{red}Tables Diagram}$$
+
 
 <p style="text-align: center;">
   <!--![tables diagram](moviedata_diagram1.jpg)-->
