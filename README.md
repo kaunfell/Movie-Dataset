@@ -7,8 +7,7 @@ A demonstration for:
 * how to make many-to-many relationship
 * how to make queries.
 
-```diff
-- Movies
+$${\color{red}Red}$$
 <div text-align: "center"; color: "#F66262">
  <h3>Tables Diagram</h3>
 </div>
