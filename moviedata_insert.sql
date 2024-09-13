@@ -17,7 +17,7 @@ INSERT INTO moviedata.movies (movie_name, movie_genre) VALUES ('Asteroid City', 
 --ACTORS table
 INSERT INTO moviedata.actors (actor_name, birth_year) VALUES ('Sam Neill', 1947)
 INSERT INTO moviedata.actors (actor_name, birth_year) VALUES ('Laura Dern', 1967)
-INSERT INTO moviedata.actors (actor_name, birth_year) VALUES ('Jeff Goldblumb', 1952)
+INSERT INTO moviedata.actors (actor_name, birth_year) VALUES ('Jeff Goldblum', 1952)
 
 INSERT INTO moviedata.actors (actor_name, birth_year) VALUES ('Tom Hanks', 1956)
 INSERT INTO moviedata.actors (actor_name, birth_year) VALUES ('Gary Sinise', 1955)
